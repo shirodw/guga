@@ -12,7 +12,7 @@ int main(int argc, char** argv) {
    for(size_t i=0;i<n;++i){
        cout <<argv[2]<<'\n';
    }
-   int arr[5];
+   int arr[4];
 
 }
 //lolkookokkojo
